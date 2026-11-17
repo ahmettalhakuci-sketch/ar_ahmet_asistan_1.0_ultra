@@ -1,0 +1,9 @@
+streamlit>=1.35.0
+gtts>=2.5.0
+edge-tts>=6.1.12
+thefuzz>=0.22.1
+python-Levenshtein>=0.25.0
+deep-translator>=1.11.4
+SpeechRecognition>=3.10.0
+requests>=2.31.0
+TurkishStemmer>=1.3
